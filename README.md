@@ -27,7 +27,7 @@ The NYC Department of Health needs data-driven insights to:
 ├── 02_overall_insights.sql          # Borough and grade distribution analysis
 ├── 03_violation_analysis.sql        # Violation patterns and critical violations
 ├── 04_cuisine_analysis.sql          # Cuisine-specific safety performance
-├── Restaurant_Health_Inspection_Analysis_NYC.pbix  # Power BI dashboard (In progress)
+├── Restaurant_Health_Inspection_Analysis_NYC.pbix  # Power BI dashboard
 └── README.md                        # Project documentation
 ```
 
@@ -77,7 +77,7 @@ The NYC Department of Health needs data-driven insights to:
 3. **How do restaurant grades and violations vary across boroughs and over time?**
 4. **Where should the city focus inspections, policies, or education to improve food safety?**
 
-## 📈 Power BI Dashboard Features (In progress)
+## 📈 Power BI Dashboard Features 
 
 The interactive Power BI dashboard (`Restaurant_Health_Inspection_Analysis_NYC.pbix`) includes:
 
@@ -140,3 +140,5 @@ This project is based on the **Restaurant Health Inspection Analysis - NYC** pro
 **Project Status**: ✅ Complete - Analysis & Visualization Ready
 
 *This project demonstrates end-to-end data analysis skills including data cleaning, SQL analysis, and business intelligence visualization using real-world public health data.*
+
+![alt text](resources/image.png)
